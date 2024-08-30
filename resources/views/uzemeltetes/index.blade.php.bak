@@ -1,0 +1,189 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <title> Gyapinet Bt.</title>
+   <meta name="description" content="">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   <!-- Place favicon.ico in the root directory -->
+   <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+
+   <!-- CSS here -->
+   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+   <link rel="stylesheet" href="assets/css/animate.css">
+   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
+   <link rel="stylesheet" href="assets/css/custom-animation.css">
+   <link rel="stylesheet" href="assets/css/slick.css">
+   <link rel="stylesheet" href="assets/css/flaticon.css">
+   <link rel="stylesheet" href="assets/css/meanmenu.css">
+   <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
+   <link rel="stylesheet" href="assets/css/magnific-popup.css">
+   <link rel="stylesheet" href="assets/css/spacing.css">
+   <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+   <!--[if lte IE 9]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+      <![endif]-->
+
+      @include('starting.header');
+
+
+   <main>
+
+
+      <!-- service-details- area- start -->
+      <div class="service-details-area">
+         <div class="container">
+            <div class="row service-pt-pb">
+               <div class="col-xl-6 col-lg-6">
+                  <div class="sd-service-details">
+                     <h3 class="tp-title-sm service-details-space">Rendszerintegráció, IT üzemeltetés</h3>
+                     <a href="#">Árajánlatot kérek<i class="fal fa-arrow-right"></i></a>
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6">
+                  <div class="sd-service-details-paragraph">
+                     <p class="pb-15">
+                        A GyapiNet széles körű tapasztalattal rendelkezik az informatikai projektek megvalósítása
+                        területén,  a  néhány  felhasználós  rendszerektől  kezdve  az  országos,  illetve  nemzetközi
+                        hálózatokig egyaránt.
+                     </p>
+                     <p>A  rendszerintegráció  során  a  már  meglévő  hardver  és  szoftver  eszközök  valamint  az  új
+                        eszközök  és  alkalmazások  egységes  rendszerbe  foglalása,  az  egyes  elemek  illesztése,
+                        összehangolása  történik.  Mind  a  meglévő  elemekre  épülő,  mind  pedig  a  teljesen  új
+                        rendszerek esetén a tervezéstől kezdve, a kivitelezésen, és a felhasználók oktatásán át, egé-
+                        szen  az  üzemeltetésig  hozzáértő  szakemberek  vesznek  részt  az  adott  feladatok  végre-
+                        hajtásában.
+                    </p>
+                    </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-12">
+                  <div class="sd-big-img">
+                     <img src="assets/img/servers.png" alt="">
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6">
+                  <div class="sd-service-details">
+                     <h3 class="tp-title-sm service-details-space">Üzemeltetés, felhasználó támogatás, szerviz, outsourcing</h3>
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6">
+                  <div class="sd-service-details-paragraph">
+                     <p class="pb-15">
+                        Az GyapiNet magasan képzett szerviz mérnöki és technikusi állománya gyors és megbízható
+                        szolgáltatást biztosít ügyfelei számára. A cég az országos hálózattal rendelkező vállalatok és
+                        intézmények részére szerviztámogatást is magába foglaló komplex szolgáltatás ellátását
+                        is nyújtva outsourcing megoldással.
+                        Kis  és  közepes  vállalatok  infrastruktúra  támogatására,  üzemeltetésére  és
+                        rendszerfelügyeletére időszakos erőforrás-kihelyezéssel állunk ügyfeleink rendelkezésére.
+                     </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- service-details-area- end -->
+
+      <!-- accordion-area-start -->
+      <div class="sd-accordio-area grey-bg pt-130 pb-130">
+         <div class="container">
+            <div class="row">
+               <div class="col-xl-7">
+                  <h3 class="tp-title-sm mb-90">Megoldásaink: Válaszok az alapvető kérdésekre</h3>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-xl-12">
+                  <div class="tp-custom-accordio">
+                     <div class="accordion" id="accordionExample">
+                        <div class="accordion-items faq-accordio-border">
+                           <h2 class="accordion-header" id="headingOne">
+                              <button class="accordion-buttons " type="button" data-bs-toggle="collapse"
+                                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                 Ügyeltek az informatikai biztonságra?
+                              </button>
+                           </h2>
+                           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                              data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                                A GyapiNet sok éves tapasztalatát ötvözve a legújabb technológiákkal és módszertannal a
+                                vállalati, intézményi informatikai biztonság kialakítására is vállalkozik, amely több lépcsőből álló
+                                folyamat  során  egy  akár  már  működő  állapotból  is egy  fokozott,  szervezett  biztonsági
+                                állapotot hoz létre. A GyapiNet mind az információvédelem, mind az informatikai rendszerek
+                                megbízható működése terén az adott cég vagy intézmény működéséhez szükséges, optimális
+                                biztonsági megoldást kínálja ügyfelei számára.
+                              </div>
+                           </div>
+                        </div>
+                        <div class="accordion-items">
+                           <h2 class="accordion-header" id="headingTwo">
+                              <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                 Terveztek hálózatot is?
+                              </button>
+                           </h2>
+                           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                              data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                                Egy  cég  vagy  intézmény  informatikai  infrastruktúrájának  kialakítása  sok  elem  gondos
+                                összehangolását  kívánja,  amelyet  a  GyapiNet  képzett  szakemberei  az  egyedi  igényeinek
+                                megfelelően végeznek el:
+                                <ul>
+                                <li>- Strukturált – számítógép, telefon – kábelrendszerek tervezése, telepítése,
+                                    üzemeltetése.</li>
+                                <li>- Optikai hálózatok tervezése, telepítése.</li>
+                                <li>- Hálózati operációs rendszerek telepítése. </li>
+                                <li>- Hálózat felügyeleti rendszerek telepítése, oktatása.</li>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="accordion-items">
+                           <h2 class="accordion-header" id="headingThree">
+                              <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                Vannak felhő alapú szolgáltatásaitok?
+                              </button>
+                           </h2>
+                           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                              data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                               Igen, mint:
+                               <li>- Központi adatmentés</li>
+                               <li>- Email szolgáltatás</li>
+                               <li>- Webtárhely, virtuális szerver</li>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="accordion-items">
+                           <h2 class="accordion-header" id="headingfour">
+                              <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                 data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+                                Bérelhetek tőletek webtárhelyet?
+                              </button>
+                           </h2>
+                           <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour"
+                              data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                                A GyapiNet eszköz infrastruktúráján lehetőséget biztosít ügyfeleinek a saját tárhely, illetve
+                                saját szerver lehetőségére. Így az ügyfelek akár saját maguk által üzemeltethetnek szervert
+                                egy magas rendelekzésre állású virtualizált környezetben – eszközberuházás nélkül.
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- accordion-area-end -->
+
+   </main>
+   @include('components.footer')

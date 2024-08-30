@@ -1,0 +1,182 @@
+<!doctype html>
+<html class="no-js" lang="zxx">
+
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="x-ua-compatible" content="ie=edge">
+   <title> Gyapinet Bt.</title>
+   <meta name="description" content="">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+   <!-- Place favicon.ico in the root directory -->
+   <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+
+   <!-- CSS here -->
+   <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+   <link rel="stylesheet" href="assets/css/animate.css">
+   <link rel="stylesheet" href="assets/css/swiper-bundle.css">
+   <link rel="stylesheet" href="assets/css/slick.css">
+   <link rel="stylesheet" href="assets/css/flaticon.css">
+   <link rel="stylesheet" href="assets/css/meanmenu.css">
+   <link rel="stylesheet" href="assets/css/font-awesome-pro.css">
+   <link rel="stylesheet" href="assets/css/magnific-popup.css">
+   <link rel="stylesheet" href="assets/css/spacing.css">
+   <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+   <!--[if lte IE 9]>
+      <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+      <![endif]-->
+
+      @include('starting.header');
+
+
+   <main>
+
+
+      <!-- service-details- area- start -->
+      <div class="service-details-area">
+         <div class="container">
+            <div class="row service-pt-pb">
+               <div class="col-xl-6 col-lg-6">
+                  <div class="sd-service-details">
+                     <h3 class="tp-title-sm service-details-space">Vállalatirányítási rendszer</h3>
+
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6">
+                  <div class="sd-service-details-paragraph">
+                     <p class="pb-15">
+                        Több  éves  tapasztalattal  állunk  ügyfeleink  rendelkezésére  vállaltirányítási  rendszer
+                        bevezetési projektekben. Az általunk fejlesztett termék OfficeSite alapokra épül ami nagy mértékben a megrendelő igényeihez tetreszabható. A rendszer
+                        moduláris  felépítésének  köszönhetően  kereskedő  és  gyártó  ügyfeleinknél  is  sikeresen
+                        vezetjük be a terméket. A rendszer teljes funkciónalitással – a mai kor igényeinek megfelelően
+                        –  webes  felületen  elérhető;  Php  alapú  fejlesztés  PostgreSQL/Mysql  adatbázisra  épülő
+                        adatkezeléssel
+                     </p>
+                    </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-12">
+                  <div class="sd-big-img">
+                     <img src="images/erp.png" alt="Referencia kép" title="Referencia kép">
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6">
+                  <div class="sd-service-details">
+                     <h3 class="tp-title-sm service-details-space">Főbb modulok</h3>
+                  </div>
+               </div>
+               <div class="col-xl-6 col-lg-6">
+                  <div class="sd-service-details-paragraph">
+                    <p class="pb-15">
+                        <b>OfficeSite alaprendszer -</b> Az integrált vállalatirányítási rendszer működtetéséhez szükséges
+                        adatbázis, program-keretrendszer, webszolgáltatások
+                    </p>
+                    <p>
+                        <b>Kereskedelmi és CRM modul -</b> A vevőkkel és potenciális vevőkkel való kapcsolattartás és az
+                        értékesítés folyamatainak eszközrendszere.
+                    </p>
+                    <p>
+                        <b>HR -</b> A  modul  a  dolgozók  munkakörével,  juttatásaival  és  munkaidejével
+                        kapcsolatos nyilvántartási és elemzési feladatok ellátását teszi lehetővé.
+                    </p>
+                    <p>
+                        <b>Jelentések (reports) -</b>  A rendszer integrált része a beépített jelentéskészítő modul.
+                    </p>
+                    <p>
+                        <b>Logisztika -</b> Ez  a  modul  képes  a  megrendelések  összeállítására  és  táblázatos
+                        formában történő nyilvántartására.
+                    </p>
+                    <p>
+                        <b>Pénzügy -</b> A pénzügyi tervek, vállalati költségvetések elkészítése itt valósítható
+                        meg. Követelések és kötelezettségek kezelése.
+                    </p>
+                    <p>
+                        <b>Business  Market -</b> A  Webáruház-funkció  webes  felületről  érhető  el,  melynek  a
+                        portállal közös kiindulópontja, egységes struktúrája, valamint arculata van.
+                    </p>
+                  </div>
+               </div>
+            </div>
+
+
+         </div>
+      </div>
+      <!-- service-details-area- end -->
+
+      <!-- accordion-area-start -->
+      <div class="sd-accordio-area grey-bg pt-130 pb-130">
+         <div class="container">
+            <div class="row">
+               <div class="col-xl-7">
+                  <h3 class="tp-title-sm mb-90">Megoldásaink: Válaszok az alapvető gondolatokra</h3>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-xl-12">
+                  <div class="tp-custom-accordio">
+                     <div class="accordion" id="accordionExample">
+                        <div class="accordion-items faq-accordio-border">
+                           <h2 class="accordion-header" id="headingOne">
+                              <button class="accordion-buttons " type="button" data-bs-toggle="collapse"
+                                 data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                 Van lehetőség egyedi/speciális vállalatirányítási rendszer készítésére?
+                              </button>
+                           </h2>
+                           <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                              data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                                Igen, jelenleg is több olyan futó projektünk van, ahol egy alaprendszert alakítunk át egyedileg tesztreszabott rendszerré,
+                                ahogyan azt Ügyfelünk megálmodta. Két hetes ciklusokra osztottuk el ezeket a fejlesztéseket, így folyamatosan kapcsolatban állunk a partnerrel,
+                                aki láthatja a projekt előrehaladását.
+                              </div>
+                           </div>
+                        </div>
+                        <div class="accordion-items">
+                           <h2 class="accordion-header" id="headingTwo">
+                              <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                 Van lehetőség pályázati megfeleltetésnek? (vagy valami ilyesmi szöveg)
+                              </button>
+                           </h2>
+                           <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                              data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                                Vállaltirányítási rendszer bevezetéshez EU pályázati lehetőség elérhető. Cégünk vállalja a szükséges pályázat elkészítését. (help)
+                              </div>
+                           </div>
+                        </div>
+                        <div class="accordion-items">
+                           <h2 class="accordion-header" id="headingThree">
+                              <button class="accordion-buttons collapsed" type="button" data-bs-toggle="collapse"
+                                 data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                 Miért szükséges egy ilyen rendszer bevezetése cégem számára?
+                              </button>
+                           </h2>
+                           <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                              data-bs-parent="#accordionExample">
+                              <div class="accordion-body">
+                                Eljutott a digitalizáció egy olyan szintre, ahol a papírt és a tollat felváltották a hordozható eszközök, melyeket
+                                hamarabb elérünk, és gyorsabban rögzíthetjük adatainkat. Ennek megfelelően egy cég életében is fontos szerepet játszik,
+                                hogy digitálisan kezeljük a megfelelő adatokat, melyek kapcsolatban vannak egymással. Ennek köszönhető, hogy egy helyen
+                                kezelhetjük alkalmazottaink adatait, melyekből a HR, és bérfunkciók lehetősége tárul elénk, így nem kell több helyen (akár papír, akár excel alapon)
+                                adatrögzítenünk, a program helyettünk dolgozik, nekünk csak az eredményre kell fókuszálnunk. A dokumentáltság is nagyon fontos esetünkben,
+                                hiszen tevékenységeink bármikor visszakereshetők, ellenőrizhetők, nyomonkövethetők, így nincs többé elkeveredett szállítólevél, számla, vagy
+                                büntetés a lejárt forgalmi engedélyből adódóan, hiszen rendszerünk emlékeztet rá.
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- accordion-area-end -->
+
+   </main>
+
+   @include('components.footer')
